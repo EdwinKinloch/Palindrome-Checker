@@ -43,6 +43,11 @@ input[type=text], select {
     width: 100%;
 }
 
+#displayYes, #displayNo {
+    font-family: 'barrioregular';
+    font-size: 5em;
+}
+
 input[type=submit] {
     font-size: 1.3em;
     width: 100%;
